@@ -94,6 +94,12 @@ Typescript - Programação Orientada a Objetos para Web <br>
 PostgreSQL - Projetos com Bancos pessoais <br> 
 SQL Server - Projetos da Faculdade 
 </p> <br>
-<img src="FOTOS/C.png" alt="C" width="40" height="40"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40">
+<div>
+<img src="FOTOS/C.png" alt="C" width="40" height="40">
+<img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40">
 <img src="FOTOS/TYPESCRIPT.png" alt="TYPESCRIPT" width="40" height="40">
-<img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40"><img src="FOTOS/SQLSERVER.png" alt="SQLSERVER" width="40" height="40">
+</div>
+<div>
+<img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40">
+<img src="FOTOS/SQLSERVER.png" alt="SQLSERVER" width="40" height="40">
+</div>
