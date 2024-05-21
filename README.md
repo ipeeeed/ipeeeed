@@ -56,18 +56,18 @@ ____
 Git - Versionamento de Código
 
 </p>
-Github - Repositório
-Linux - Instalação e configuração
-JSON - Comunicação com API's
-XML - Dependências em Java SpringBoot
-HTML - Criação de Páginas para Web Estáticas, incluindas no Github Pages
-CSS - Estilização das Páginas para Web
-Javascript - Lógica de programação para Web
-Angular
-NodeJs e NPM - Programaçã
-NestJS - API Rest
-Python - Estudos de Lógica de Programaçã
-Oracle SQL - Relatórios em SQ
+Github - Repositório <br>
+Linux - Instalação e configuração <br>
+JSON - Comunicação com API's <br>
+XML - Dependências em Java SpringBoot <br>
+HTML - Criação de Páginas para Web Estáticas, incluindas no Github Pages <br>
+CSS - Estilização das Páginas para Web <br>
+Javascript - Lógica de programação para Web <br>
+Angular <br>
+NodeJs e NPM - Programação <br>
+NestJS - API Rest <br>
+Python - Estudos de Lógica de Programação <br>
+Oracle SQL - Relatórios em SQL 
 </p> <br>
 <div><img src="FOTOS/GIT.png" alt="GIT" width="40" height="40"><img src="FOTOS/GITHUB_02.png" alt="GITHUB" width="40" height="40"><img src="FOTOS/LINUX_02.png" alt="LINUX" width="40" height="40"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"><img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40">
 <img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40">
@@ -77,11 +77,12 @@ Oracle SQL - Relatórios em SQ
 ____
 
 ### Conhecimentos Intermediários
-<p>Algoritmos e Estrutura de Dados com C </p>
-<p>Java - Programação Orientada a Objetos, API's, APP's Desktop com Swing e Conexão com Banco através do JPA </p>
-<p>Typescript - Programação Orientada a Objetos para Web </p>
-<p>PostgreSQL - Projetos com Bancos pessoais</p>
-<p>SQL Server - Projetos da Faculdade</p> <br>
+<p>Algoritmos e Estrutura de Dados com C <br>
+Java - Programação Orientada a Objetos, API's, APP's Desktop com Swing e Conexão com Banco através do JPA <br> 
+Typescript - Programação Orientada a Objetos para Web <br> 
+PostgreSQL - Projetos com Bancos pessoais <br> 
+SQL Server - Projetos da Faculdade 
+</p> <br>
 <img src="FOTOS/C.png" alt="C" width="40" height="40">
 <img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40">
 <img src="FOTOS/TYPESCRIPT.png" alt="TYPESCRIPT" width="40" height="40">
