@@ -5,13 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=2f944a&vCenter=true&width=600&height=70&lines=BEM+VINDO(A)+VISITANTE!;MEU+NOME+É+PEDRO!;UM+DESENVOLVEDOR...;BACK-END!)](https://git.io/typing-svg)
 </div>
 
-<!-- [![MasterHead](./MIDIAS/MIDIA_1.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO) -->
-
 ____
 
 ## Hello! 👋
 
-Desenvovlvedor Back-end Java
+Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvovlvedor Back-end.
+
+* Minha linguagem principal é Java, mas tenho conhecimentos em algumas outras linguagens também;
+* Meu foco principal está no Desenvolvimento Web com Rest API's e Microserviços;
+* Meu hobby como programador é desenvolvimento de Jogos.
 
 [![Linkedin: pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)](https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)
 
