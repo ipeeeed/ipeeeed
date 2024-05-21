@@ -23,7 +23,9 @@ Back-end:
 ![Swing](https://img.shields.io/badge/Java-gray?style=flat-square&logo=smashingmagazine&logoColor=white&label=Swing&labelColor=%231B6AC6)
 ![SpringBoot](https://img.shields.io/badge/Java-gray?style=flat-square&logo=spring%20boot&logoColor=white&label=Spring%20Boot&labelColor=%236DB33F)
 ![NestJS](https://img.shields.io/badge/NodeJS-gray?style=flat-square&logo=nestjs&logoColor=white&label=NestJS&labelColor=E0234E)
-![NPM](https://img.shields.io/badge/NodeJS-grey?style=flat-square&logo=npm&logoColor=white&label=npm&labelColor=%23CB3837)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat-square&logo=swagger&logoColor=black)
+<!-- ![NPM](https://img.shields.io/badge/NodeJS-grey?style=flat-square&logo=npm&logoColor=white&label=npm&labelColor=%23CB3837) -->
 
 Front-end:
 ![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -49,11 +51,13 @@ Operacional Systems:
 Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=black)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) -->
 
 IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-%23382923?style=flat-square&logo=sqlite&logoColor=white)
 <!-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white) -->
 
 ____
