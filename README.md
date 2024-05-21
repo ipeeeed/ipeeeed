@@ -49,23 +49,23 @@ IDEs:
 
 
 ### Conhecimentos Básicos
-<p>Git - Versionamento de Código <img src="FOTOS/GIT.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>Github - Repositório <img src="FOTOS/GITHUB_02.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>Linux - Instalação e configuração <img src="FOTOS/LINUX_02.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>JSON - Comunicação com API's <img src="FOTOS/JSON.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>XML - Dependências em Java SpringBoot <img src="FOTOS/XML.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>HTML - Criação de Páginas para Web Estáticas, incluindas no Github Pages <img src="FOTOS/HTML.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>CSS - Estilização das Páginas para Web <img src="FOTOS/CSS.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>Javascript - Lógica de programação para Web <img src="FOTOS/JAVASCRIPT.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>Angular <img src="FOTOS/ANGULAR.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>NodeJs e NPM - Programação<img src="FOTOS/NODEJS.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>NestJS - API Rest <img src="FOTOS/NESTJS.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>Python - Estudos de Lógica de Programação<img src="FOTOS/PYTHON.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>Oracle SQL - Relatórios em SQL<img src="FOTOS/ORACLE.png" alt="GITHUB 01" width="40" height="40"></p> <br>
+<p>Git - Versionamento de Código <img src="FOTOS/GIT.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>Github - Repositório <img src="FOTOS/GITHUB_02.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>Linux - Instalação e configuração <img src="FOTOS/LINUX_02.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>JSON - Comunicação com API's <img src="FOTOS/JSON.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>XML - Dependências em Java SpringBoot <img src="FOTOS/XML.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>HTML - Criação de Páginas para Web Estáticas, incluindas no Github Pages <img src="FOTOS/HTML.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>CSS - Estilização das Páginas para Web <img src="FOTOS/CSS.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>Javascript - Lógica de programação para Web <img src="FOTOS/JAVASCRIPT.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>Angular <img src="FOTOS/ANGULAR.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>NodeJs e NPM - Programação<img src="FOTOS/NODEJS.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>NestJS - API Rest <img src="FOTOS/NESTJS.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>Python - Estudos de Lógica de Programação<img src="FOTOS/PYTHON.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>Oracle SQL - Relatórios em SQL<img src="FOTOS/ORACLE.png" alt="GITHUB 01" width="40" height="40"></p>
 
 ### Conhecimentos Intermediários
-<p>Algoritmos e Estrutura de Dados com C <img src="FOTOS/C.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>Java - Programação Orientada a Objetos, API's, APP's Desktop com Swing e Conexão com Banco através do JPA <img src="FOTOS/JAVA.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>Typescript - Programação Orientada a Objetos para Web <img src="FOTOS/TYPESCRIPT.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>PostgreSQL - Projetos com Bancos pessoais<img src="FOTOS/POSTGRESQL.png" alt="GITHUB 01" width="40" height="40"></p> <br>
-<p>SQL Server - Projetos da Faculdade<img src="FOTOS/SQLSERVER.png" alt="GITHUB 01" width="40" height="40"></p> <br>
+<p>Algoritmos e Estrutura de Dados com C <img src="FOTOS/C.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>Java - Programação Orientada a Objetos, API's, APP's Desktop com Swing e Conexão com Banco através do JPA <img src="FOTOS/JAVA.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>Typescript - Programação Orientada a Objetos para Web <img src="FOTOS/TYPESCRIPT.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>PostgreSQL - Projetos com Bancos pessoais<img src="FOTOS/POSTGRESQL.png" alt="GITHUB 01" width="40" height="40"></p>
+<p>SQL Server - Projetos da Faculdade<img src="FOTOS/SQLSERVER.png" alt="GITHUB 01" width="40" height="40"></p>
