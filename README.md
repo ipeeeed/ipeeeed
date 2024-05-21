@@ -23,11 +23,10 @@ Back-end:
 ![Swing](https://img.shields.io/badge/Java-gray?style=flat-square&logo=smashingmagazine&logoColor=white&label=Swing&labelColor=%231B6AC6)
 ![SpringBoot](https://img.shields.io/badge/Java-gray?style=flat-square&logo=spring%20boot&logoColor=white&label=Spring%20Boot&labelColor=%236DB33F)
 ![NestJS](https://img.shields.io/badge/NodeJS-gray?style=flat-square&logo=nestjs&logoColor=white&label=NestJS&labelColor=E0234E)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NodeJS-grey?style=flat-square&logo=npm&logoColor=white&label=npm&labelColor=%23CB3837)
 
 Front-end:
-![JavaScript]!(https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
