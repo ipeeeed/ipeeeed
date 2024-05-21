@@ -2,7 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=2f944a&vCenter=true&width=600&height=70&lines=BEM+VINDO(A)+VISITANTE!;MEU+NOME+É+PEDRO!;UM+PROGRAMADOR...;INICIANTE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=2f944a&vCenter=true&width=600&height=70&lines=BEM+VINDO(A)+VISITANTE!;MEU+NOME+É+PEDRO!;UM+DESENVOLVEDOR...;BACK-END!)](https://git.io/typing-svg)
 </div>
 
 <!-- [![MasterHead](./MIDIAS/MIDIA_1.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO) -->
