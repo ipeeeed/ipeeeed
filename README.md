@@ -19,25 +19,33 @@ ____
 
 ### ⚡ Tecnologias
 
-Técnologias mais usadas:
+Back-end: 
+![Swing](https://img.shields.io/badge/Java-gray?style=flat-square&logo=smashingmagazine&logoColor=white&label=Swing&labelColor=%231B6AC6)
+![SpringBoot](https://img.shields.io/badge/Java-gray?style=flat-square&logo=spring%20boot&logoColor=white&label=Spring%20Boot&labelColor=%236DB33F)
+![NestJS](https://img.shields.io/badge/NodeJS-gray?style=flat-square&logo=nestjs&logoColor=white&label=NestJS&labelColor=E0234E)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NodeJS-grey?style=flat-square&logo=npm&logoColor=white&label=npm&labelColor=%23CB3837)
 
-Backend: 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-Frontend:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+Front-end:
+![JavaScript]!(https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
 Database:
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL-gray?style=flat-square&logo=microsoftsqlserver&logoColor=white&label=SQLServer&labelColor=%23CC2927)
+![Oracle](https://img.shields.io/badge/SQL-gray?style=flat-square&logo=oracle&logoColor=white&label=Oracle&labelColor=%23F80000)
+![PostgreSQL](https://img.shields.io/badge/SQL-gray?style=flat-square&logo=postgresql&logoColor=white&label=PostgreSQL&labelColor=%234169E1)
 
 Cloud:
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![MicrosoftAzure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+Operacional Systems:
+![SWindows](https://img.shields.io/badge/Windows-gray?style=flat-square&logo=windowsxp&logoColor=white&label=Windows%2010&labelColor=%230078D4)
+![Mint](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linuxmint&logoColor=white&label=Mint&labelColor=%2387CF3E)
+![PopOS](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=popos&logoColor=white&label=PopOS!&labelColor=%2348B9C7)
+![Manjaro](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=manjaro&logoColor=white&label=Manjaro&labelColor=%2335BF5C)
 
 Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
