@@ -11,7 +11,7 @@ ____
 
 ## Hello! 👋
 
-Meu nome é Pedro, sou Desenvovlvedor Back-end Java!
+Desenvovlvedor Back-end Java
 
 [![Linkedin: pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)](https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)
 
@@ -47,25 +47,32 @@ Tools:
 IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<!-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white) -->
 
 ____
 
 ### Conhecimentos Básicos
-<p>Git - Versionamento de Código</p>
-<p>Github - Repositório</p>
-<p>Linux - Instalação e configuração</p>
-<p>JSON - Comunicação com API's</p>
-<p>XML - Dependências em Java SpringBoot</p>
-<p>HTML - Criação de Páginas para Web Estáticas, incluindas no Github Pages</p>
-<p>CSS - Estilização das Páginas para Web</p>
-<p>Javascript - Lógica de programação para Web</p>
-<p>Angular</p>
-<p>NodeJs e NPM - Programaçã</p>
-<p>NestJS - API Rest</p>
-<p>Python - Estudos de Lógica de Programaçã</p>
-<p>Oracle SQL - Relatórios em SQ</p> <br>
-<div><img src="FOTOS/GIT.png" alt="GIT" width="40" height="40"><img src="FOTOS/GITHUB_02.png" alt="GITHUB" width="40" height="40"><img src="FOTOS/LINUX_02.png" alt="LINUX" width="40" height="40"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"><img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40"><img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40">
+<p>
+Git - Versionamento de Código
+
+</p>
+Github - Repositório
+Linux - Instalação e configuração
+JSON - Comunicação com API's
+XML - Dependências em Java SpringBoot
+HTML - Criação de Páginas para Web Estáticas, incluindas no Github Pages
+CSS - Estilização das Páginas para Web
+Javascript - Lógica de programação para Web
+Angular
+NodeJs e NPM - Programaçã
+NestJS - API Rest
+Python - Estudos de Lógica de Programaçã
+Oracle SQL - Relatórios em SQ
+</p> <br>
+<div><img src="FOTOS/GIT.png" alt="GIT" width="40" height="40"><img src="FOTOS/GITHUB_02.png" alt="GITHUB" width="40" height="40"><img src="FOTOS/LINUX_02.png" alt="LINUX" width="40" height="40"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"><img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40">
+<img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40">
 <img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"><img src="FOTOS/NESTJS.png" alt="NESTJS" width="40" height="40"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"><img src="FOTOS/ORACLE.png" alt="ORACLE" width="40" height="40">
+</div>
 
 ____
 
