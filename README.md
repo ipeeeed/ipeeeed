@@ -9,17 +9,14 @@ ____
 
 ## Hello! 👋
 
-Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvovlvedor Back-end.
+Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvolvedor Back-end.
 
 * Minha linguagem principal é Java, mas tenho conhecimentos em algumas outras linguagens também;
 * Meu foco principal está no Desenvolvimento Web com Rest API's e Microserviços;
 * Meu hobby como programador é desenvolvimento de Jogos.
-<div>
-    <a href="https://www.linkedin.com/in/pedro-henrique-matos-b10712215/" target="_blank">
 
 [![Linkedin: pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)](https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)
-    </a>
-</div>
+
 ____
 
 ### ⚡ Tecnologias
