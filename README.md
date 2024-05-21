@@ -53,9 +53,7 @@ ____
 
 ### Conhecimentos Básicos
 <p>
-Git - Versionamento de Código
-
-</p>
+Git - Versionamento de Código <br>
 Github - Repositório <br>
 Linux - Instalação e configuração <br>
 JSON - Comunicação com API's <br>
@@ -69,22 +67,19 @@ NestJS - API Rest <br>
 Python - Estudos de Lógica de Programação <br>
 Oracle SQL - Relatórios em SQL 
 </p> <br>
-<div><img src="FOTOS/GIT.png" alt="GIT" width="40" height="40"><img src="FOTOS/GITHUB_02.png" alt="GITHUB" width="40" height="40"><img src="FOTOS/LINUX_02.png" alt="LINUX" width="40" height="40"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"><img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40">
+<img src="FOTOS/GIT.png" alt="GIT" width="40" height="40"><img src="FOTOS/GITHUB_02.png" alt="GITHUB" width="40" height="40"><img src="FOTOS/LINUX_02.png" alt="LINUX" width="40" height="40"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"><img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40">
 <img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40">
 <img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"><img src="FOTOS/NESTJS.png" alt="NESTJS" width="40" height="40"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"><img src="FOTOS/ORACLE.png" alt="ORACLE" width="40" height="40">
-</div>
 
 ____
 
 ### Conhecimentos Intermediários
-<p>Algoritmos e Estrutura de Dados com C <br>
+<p>C - Algoritmos e Estrutura de Dados <br>
 Java - Programação Orientada a Objetos, API's, APP's Desktop com Swing e Conexão com Banco através do JPA <br> 
 Typescript - Programação Orientada a Objetos para Web <br> 
 PostgreSQL - Projetos com Bancos pessoais <br> 
 SQL Server - Projetos da Faculdade 
 </p> <br>
-<img src="FOTOS/C.png" alt="C" width="40" height="40">
-<img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40">
+<img src="FOTOS/C.png" alt="C" width="40" height="40"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40">
 <img src="FOTOS/TYPESCRIPT.png" alt="TYPESCRIPT" width="40" height="40">
-<img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40">
-<img src="FOTOS/SQLSERVER.png" alt="SQLSERVER" width="40" height="40">
+<img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40"><img src="FOTOS/SQLSERVER.png" alt="SQLSERVER" width="40" height="40">
