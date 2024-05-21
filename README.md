@@ -67,9 +67,23 @@ NestJS - API Rest <br>
 Python - Estudos de Lógica de Programação <br>
 Oracle SQL - Relatórios em SQL 
 </p> <br>
-<img src="FOTOS/GIT.png" alt="GIT" width="40" height="40"><img src="FOTOS/GITHUB_02.png" alt="GITHUB" width="40" height="40"><img src="FOTOS/LINUX_02.png" alt="LINUX" width="40" height="40"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"><img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40">
-<img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40">
-<img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"><img src="FOTOS/NESTJS.png" alt="NESTJS" width="40" height="40"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"><img src="FOTOS/ORACLE.png" alt="ORACLE" width="40" height="40">
+<div>
+<img src="FOTOS/GIT.png" alt="GIT" width="40" height="40">
+<img src="FOTOS/GITHUB_02.png" alt="GITHUB" width="40" height="40">
+<img src="FOTOS/LINUX_02.png" alt="LINUX" width="40" height="40">
+<img src="FOTOS/JSON.png" alt="JSON" width="40" height="40">
+<img src="FOTOS/XML.png" alt="XML" width="40" height="40">
+<img src="FOTOS/HTML.png" alt="HTML" width="40" height="40">
+<img src="FOTOS/CSS.png" alt="CSS" width="40" height="40">
+<img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40">
+</div>
+<div>
+<img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40">
+<img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40">
+<img src="FOTOS/NESTJS.png" alt="NESTJS" width="40" height="40">
+<img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40">
+<img src="FOTOS/ORACLE.png" alt="ORACLE" width="40" height="40">
+</div>
 
 ____
 
