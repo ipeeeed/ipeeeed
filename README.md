@@ -2,7 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ+VISITANTE!;😎EU+SOU+O+PEDRO!;💻UM+PROGRAMADOR...;🌝BACK-END!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=OLÁ+VISITANTE!;EU+SOU+O+PEDRO!;UM+PROGRAMADOR...;BACK-END!)](https://git.io/typing-svg)
 </div>
 
 [![MasterHead](./MIDIAS/MIDIA_1.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
@@ -64,19 +64,8 @@ ____
 <p>NestJS - API Rest</p>
 <p>Python - Estudos de Lógica de Programaçã</p>
 <p>Oracle SQL - Relatórios em SQ</p> <br>
-<img src="FOTOS/GIT.png" alt="GIT" width="40" height="40">
-<img src="FOTOS/GITHUB_02.png" alt="GITHUB" width="40" height="40">
-<img src="FOTOS/LINUX_02.png" alt="LINUX" width="40" height="40">
-<img src="FOTOS/JSON.png" alt="JSON" width="40" height="40">
-<img src="FOTOS/XML.png" alt="XML" width="40" height="40">
-<img src="FOTOS/HTML.png" alt="HTML" width="40" height="40">
-<img src="FOTOS/CSS.png" alt="CSS" width="40" height="40">
-<img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40">
-<img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40">
-<img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40">
-<img src="FOTOS/NESTJS.png" alt="NESTJS" width="40" height="40">
-<img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40">
-<img src="FOTOS/ORACLE.png" alt="ORACLE" width="40" height="40">
+<div><img src="FOTOS/GIT.png" alt="GIT" width="40" height="40"><img src="FOTOS/GITHUB_02.png" alt="GITHUB" width="40" height="40"><img src="FOTOS/LINUX_02.png" alt="LINUX" width="40" height="40"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"><img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40"><img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40">
+<img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"><img src="FOTOS/NESTJS.png" alt="NESTJS" width="40" height="40"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"><img src="FOTOS/ORACLE.png" alt="ORACLE" width="40" height="40">
 
 ____
 
