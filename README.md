@@ -14,9 +14,12 @@ Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvov
 * Minha linguagem principal é Java, mas tenho conhecimentos em algumas outras linguagens também;
 * Meu foco principal está no Desenvolvimento Web com Rest API's e Microserviços;
 * Meu hobby como programador é desenvolvimento de Jogos.
+<div>
+    <a href="https://www.linkedin.com/in/pedro-henrique-matos-b10712215/" target="_blank">
 
 [![Linkedin: pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)](https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)
-
+    </a>
+</div>
 ____
 
 ### ⚡ Tecnologias
@@ -63,16 +66,16 @@ Operacional Systems: <br>
 <div>
 
 Tools: <br>
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=black)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) -->
 </div>
 <div>
 
 IDEs: <br>
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23382923?style=flat-square&logo=sqlite&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 <!-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white) -->
 </div>
