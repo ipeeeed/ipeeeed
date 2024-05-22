@@ -2,18 +2,18 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=2f944a&vCenter=true&width=600&height=70&lines=BEM+VINDO(A)+VISITANTE!;MEU+NOME+É+PEDRO!;UM+DESENVOLVEDOR...;BACK-END!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=2f944a&vCenter=true&width=600&height=70&lines=BEM+VINDO(A)+VISITANTE!;MEU+NOME+É+PEDRO!;+DESENVOLVEDOR+WEB!)](https://git.io/typing-svg)
 </div>
 
 ____
 
 ## Hello! 👋
 
-Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvolvedor Back-end.
+Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvolvedor Web com foco em Back-end.
 
-* Minha linguagem principal é Java, mas tenho conhecimentos em algumas outras linguagens também;
+* Minha linguagem principal é Java, mas tenho conhecimentos em algumas outras linguagens de programação como NodeJS, bem como linguagens de marcação como HTML e Markdown, linguagem de estilo como CSS e SQL;
 * Meu foco principal está no Desenvolvimento Web com Rest API's e Microserviços;
-* Meu hobby como programador é desenvolvimento de Jogos.
+* Meu hobby como programador é Desenvolvimento de Jogos.
 
 [![Linkedin: pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)](https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)
 
@@ -27,9 +27,6 @@ Back-end: <br>
 ![Swing](https://img.shields.io/badge/Java-gray?style=flat-square&logo=smashingmagazine&logoColor=white&label=Swing&labelColor=%231B6AC6)
 ![SpringBoot](https://img.shields.io/badge/Java-gray?style=flat-square&logo=spring%20boot&logoColor=white&label=Spring%20Boot&labelColor=%236DB33F)
 ![NestJS](https://img.shields.io/badge/NodeJS-gray?style=flat-square&logo=nestjs&logoColor=white&label=NestJS&labelColor=E0234E)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat-square&logo=swagger&logoColor=black)
-<!-- ![NPM](https://img.shields.io/badge/NodeJS-grey?style=flat-square&logo=npm&logoColor=white&label=npm&labelColor=%23CB3837) -->
 </div>
 <div>
 
@@ -64,6 +61,8 @@ Operacional Systems: <br>
 
 Tools: <br>
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) -->
