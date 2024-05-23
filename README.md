@@ -40,9 +40,9 @@ Front-end: <br>
 <div>
 
 Database: <br>
-![MicrosoftSQLServer](https://img.shields.io/badge/SQLServer-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgresql-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/SQLServer-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 <div>
