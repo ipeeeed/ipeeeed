@@ -40,9 +40,10 @@ Front-end: <br>
 <div>
 
 Database: <br>
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL-gray?style=flat-square&logo=microsoftsqlserver&logoColor=white&label=SQLServer&labelColor=%23CC2927)
-![Oracle](https://img.shields.io/badge/SQL-gray?style=flat-square&logo=oracle&logoColor=white&label=Oracle&labelColor=%23F80000)
-![PostgreSQL](https://img.shields.io/badge/SQL-gray?style=flat-square&logo=postgresql&logoColor=white&label=PostgreSQL&labelColor=%234169E1)
+![MicrosoftSQLServer](https://img.shields.io/badge/SQLServer-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgresql-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 </div>
 <div>
 
@@ -54,17 +55,17 @@ Cloud: <br>
 Operacional Systems: <br>
 ![Mint](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linuxmint&logoColor=white&label=Mint&labelColor=%2387CF3E)
 ![PopOS](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=popos&logoColor=white&label=PopOS!&labelColor=%2348B9C7)
-![Manjaro](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=manjaro&logoColor=white&label=Manjaro&labelColor=%2335BF5C)
-![Windows](https://img.shields.io/badge/Windows-gray?style=flat-square&logo=windowsxp&logoColor=white&label=Windows%2010&labelColor=%230078D4)
+![Windows10](https://img.shields.io/badge/Windows_10-%230078D4?style=flat-square&logo=windowsxp&logoColor=white)
+<!-- ![Manjaro](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=manjaro&logoColor=white&label=Manjaro&labelColor=%2335BF5C) -->
 </div>
 <div>
 
 Tools: <br>
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat-square&logo=swagger&logoColor=black)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) -->
 </div>
 <div>
