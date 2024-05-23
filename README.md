@@ -11,8 +11,8 @@ ____
 
 Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvolvedor Web com foco em Back-end.
 
-* Minha linguagem principal é Java, mas tenho conhecimentos em algumas outras linguagens de programação como NodeJS, bem como linguagens de marcação como HTML e Markdown, linguagem de estilo como CSS e SQL;
-* Meu foco principal está no Desenvolvimento Web com Rest API's e Microserviços;
+* Minha linguagem principal é Java, mas tenho conhecimentos em algumas outras linguagens de programação como NodeJS; bem como linguagens de marcação como HTML e Markdown; linguagem de estilo CSS; e linguagem de consulta SQL;
+* Meu foco principal está no Desenvolvimento Web com Rest API e Microserviços;
 * Meu hobby como programador é Desenvolvimento de Jogos.
 
 [![Linkedin: pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)](https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)
@@ -71,7 +71,7 @@ Tools: <br>
 <div>
 
 IDEs: <br>
-![DBeaver](https://img.shields.io/badge/DBeaver-%23382923?style=flat-square&logo=sqlite&logoColor=white)
+![DBeaver](https://img.shields.io/badge/Dbeaver-%236b3e2c?style=flat-square&logo=dbeaver)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 <!-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white) -->
