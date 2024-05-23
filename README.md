@@ -15,7 +15,7 @@ Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvol
 * Meu foco principal está no Desenvolvimento Web com Rest API e Microserviços;
 * Meu hobby como programador é Desenvolvimento de Jogos.
 
-[![Linkedin: pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)](https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)
+[![Linkedin:Pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)](https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)
 
 ____
 
@@ -48,7 +48,9 @@ Database: <br>
 <div>
 
 Cloud: <br>
-![MicrosoftAzure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GoogleDrive](https://img.shields.io/badge/Google_Drive-%234285F4?style=flat-square&logo=googledrive&logoColor=white)
+
+
 </div>
 <div>
 
@@ -73,6 +75,6 @@ Tools: <br>
 IDEs: <br>
 ![DBeaver](https://img.shields.io/badge/Dbeaver-%236b3e2c?style=flat-square&logo=dbeaver)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-6232a8?style=flat-square&logo=eclipse&logoColor=white)
 <!-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white) -->
 </div>
