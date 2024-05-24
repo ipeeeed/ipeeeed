@@ -15,7 +15,7 @@ Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvol
 * Meu foco principal está no Desenvolvimento Web com Rest API e Microserviços;
 * Meu hobby como programador é Desenvolvimento de Jogos.
 
-[![Linkedin:Pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)](https://www.linkedin.com/in/pedro-henrique-matos-b10712215/)
+[![Linkedin:Pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ipeeeed/)](https://www.linkedin.com/in/ipeeeed/)
 
 ____
 
