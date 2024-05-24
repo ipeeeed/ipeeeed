@@ -1,8 +1,7 @@
 <div align="center" > 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient)
  
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=2f944a&vCenter=true&width=600&height=70&lines=BEM+VINDO(A)+VISITANTE!;MEU+NOME+É+PEDRO!;DESENVOLVEDOR+WEB!)](https://git.io/typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&size=60&duration=3000&pause=1000&color=22AE43&background=6DA3FF00&center=true&vCenter=true&random=false&width=550&height=90&lines=Bem-vindo(a)+Visitante!;Meu+nome+%C3%A9+Pedro!;Desenvolvedor+Web!)](https://git.io/typing-svg)
 </div>
 
