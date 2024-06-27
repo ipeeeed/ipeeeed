@@ -35,7 +35,8 @@ Front-end: <br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Blazor](https://img.shields.io/badge/-Blazor-black?style=flat-square&logo=blazor&logoColor=%23512BD4)
+<!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) -->
 </div>
 <div>
 
@@ -71,7 +72,8 @@ Tools: <br>
 
 IDEs: <br>
 ![DBeaver](https://img.shields.io/badge/Dbeaver-%236b3e2c?style=flat-square&logo=dbeaver)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visualstudio&logoColor=%235C2D91)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=%23007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-6232a8?style=flat-square&logo=eclipse&logoColor=white)
 <!-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white) -->
 </div>
