@@ -9,7 +9,7 @@ ____
 
 ## Hello! 👋
 
-Meu nome é Pedro, tenho 25 anos, curso Ciências da Computação e sou Desenvolvedor Web com foco em Back-end.
+Meu nome é Pedro, tenho 26 anos, curso Ciências da Computação e sou Desenvolvedor Web com foco em Back-end.
 
 * Minha linguagem principal é Java, mas tenho conhecimentos em algumas outras linguagens de programação como NodeJS; bem como linguagens de marcação como HTML e Markdown; linguagem de estilo CSS; e linguagem de consulta SQL;
 * Meu foco principal está no Desenvolvimento Web com Rest API e Microserviços;
