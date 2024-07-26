@@ -75,5 +75,5 @@ IDEs: <br>
 [![VisualStudio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visualstudio&logoColor=%235C2D91)](https://visualstudio.microsoft.com/pt-br/vs/community/)
 [![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=%23007ACC)](https://code.visualstudio.com/)
 [![Eclipse](https://img.shields.io/badge/-Eclipse-6232a8?style=flat-square&logo=eclipse&logoColor=white)](https://eclipseide.org/)
-<!-- [![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/) -->
+[![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
 </div>
