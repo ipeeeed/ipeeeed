@@ -66,7 +66,7 @@ Tools: <br>
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)](https://docs.npmjs.com/creating-a-new-npm-user-account)
 [![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat-square&logo=swagger&logoColor=black)](https://swagger.io/docs/)
-<!-- [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/) -->
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/)
 </div>
 <div>
 
