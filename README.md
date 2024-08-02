@@ -15,7 +15,7 @@ Meu nome é Pedro, tenho 26 anos, curso Ciências da Computação e sou Desenvol
 * Meu foco principal está no Desenvolvimento Web com Rest API e Microserviços;
 * Meu hobby como programador é Desenvolvimento de Jogos.
 
-[![Linkedin:Pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ipeeeed/)](https://www.linkedin.com/in/ipeeeed/)
+[![Linkedin:Pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ipeeeed/)](https://www.linkedin.com/in/ipeeeed/)
 
 ____
 
@@ -24,8 +24,8 @@ ____
 <div>
 
 Back-end: <br>
-[![Swing](https://img.shields.io/badge/Java_Swing-%231B6AC6?style=flat&logo=smashingmagazine&logoColor=white)](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F/javax/swing/package-summary.html)
 [![SpringBoot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat&logo=springboot&logoColor=white)](https://docs.spring.io/spring-boot/index.html)
+[![Swing](https://img.shields.io/badge/Java_Swing-%231B6AC6?style=flat&logo=smashingmagazine&logoColor=white)](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F/javax/swing/package-summary.html)
 [![NodeJS](https://img.shields.io/badge/NodeJS-%235FA04E?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=flat&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
 </div>
@@ -34,12 +34,14 @@ Back-end: <br>
 Front-end: <br>
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://devdocs.io/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://devdocs.io/css/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://devdocs.io/javascript/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=%23CFA9D9)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://v17.angular.io/docs)
+<br>
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://devdocs.io/javascript/)
+[![Angular](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=DD0031)](https://v17.angular.io/docs)
 [![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=%2361DAFB)](https://legacy.reactjs.org/docs/getting-started.html)
 [![VueJs](https://img.shields.io/badge/VueJs-black?style=flat&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/guide/introduction.html)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=%23CFA9D9)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 [![Blazor](https://img.shields.io/badge/-Blazor-black?style=flat&logo=blazor&logoColor=%23512BD4)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 </div>
 <div>
@@ -59,18 +61,21 @@ Cloud: <br>
 <div>
 
 Operacional Systems: <br>
-[![Mint](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linuxmint&logoColor=white&label=Mint&labelColor=%2387CF3E)](https://www.linuxmint.com/download.php)
-[![PopOS](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=popos&logoColor=white&label=PopOS!&labelColor=%2348B9C7)](https://pop.system76.com/)
-[![Windows10](https://img.shields.io/badge/Windows_10-%230078D4?style=flat-square&logo=windowsxp&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10%20)
-[![Manjaro](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=manjaro&logoColor=white&label=Manjaro&labelColor=%2335BF5C)](https://manjaro.org/)
+[![Manjaro](https://img.shields.io/badge/Linux-gray?style=flat&logo=manjaro&logoColor=white&label=Manjaro&labelColor=%2335BF5C)](https://manjaro.org/)
+[![Mint](https://img.shields.io/badge/Linux-gray?style=flat&logo=linuxmint&logoColor=white&label=Mint&labelColor=%2387CF3E)](https://www.linuxmint.com/download.php)
+[![PopOS](https://img.shields.io/badge/Linux-gray?style=flat&logo=popos&logoColor=white&label=PopOS!&labelColor=%2348B9C7)](https://pop.system76.com/)
+<br>
+
+[![Windows10](https://img.shields.io/badge/Windows_10-%230078D4?style=flat&logo=windowsxp&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10%20)
+[![Windows11](https://img.shields.io/badge/Windows_11-%230078D4?style=flat&logo=windows11&logoColor=white)]
 </div>
 <div>
 
 Tools: <br>
-[![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=black)](https://www.postman.com/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat&logo=npm&logoColor=white)](https://docs.npmjs.com/creating-a-new-npm-user-account)
+[![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=black)](https://www.postman.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/docs/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/)
 </div>
