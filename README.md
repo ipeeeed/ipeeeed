@@ -26,6 +26,7 @@ ____
 Back-end: <br>
 [![SpringBoot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat&logo=springboot&logoColor=white)](https://docs.spring.io/spring-boot/index.html)
 [![Swing](https://img.shields.io/badge/Java_Swing-%231B6AC6?style=flat&logo=smashingmagazine&logoColor=white)](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F/javax/swing/package-summary.html)
+
 [![NodeJS](https://img.shields.io/badge/NodeJS-%235FA04E?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=flat&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
 </div>
@@ -35,15 +36,16 @@ Front-end: <br>
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://devdocs.io/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://devdocs.io/css/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=%23CFA9D9)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://devdocs.io/javascript/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/docs/)
 [![Angular](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=DD0031)](https://v17.angular.io/docs)
 [![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=%2361DAFB)](https://legacy.reactjs.org/docs/getting-started.html)
 [![VueJs](https://img.shields.io/badge/VueJs-black?style=flat&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/guide/introduction.html)
-[![Blazor](https://img.shields.io/badge/-Blazor_Webassembly-black?style=flat&logo=blazor&logoColor=%23512BD4)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+
+[![Blazor](https://img.shields.io/badge/-Blazor-black?style=flat&logo=blazor&logoColor=%23512BD4)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 </div>
-<div>
+<div >
 
 Database: <br>
 [![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white)](https://www.w3schools.com/sql/)
@@ -60,8 +62,7 @@ Cloud: <br>
 <div>
 
 Operacional Systems: <br>
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)
-](https://manjaro.org/)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](https://manjaro.org/)
 [![Mint](https://img.shields.io/badge/Mint-87CF3E?logo=linuxmint&logoColor=white)](https://www.linuxmint.com/download.php)
 [![PopOS](https://img.shields.io/badge/PopOS-48B9C7?style=flat&logo=popos&logoColor=white)](https://pop.system76.com/)
 
