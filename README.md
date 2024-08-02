@@ -21,7 +21,7 @@ ____
 
 ### ⚡ Tecnologias
 
-<div style="display: inline;">
+<div display="inline">
 <div>
 
 Back-end: <br>
