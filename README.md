@@ -21,14 +21,14 @@ ____
 
 ### ⚡ Tecnologias
 
-<div>
+<div display="inline">
 
 Back-end: <br>
 [![SpringBoot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat&logo=springboot&logoColor=white)](https://docs.spring.io/spring-boot/index.html)
 [![Swing](https://img.shields.io/badge/Java_Swing-%231B6AC6?style=flat&logo=smashingmagazine&logoColor=white)](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F/javax/swing/package-summary.html)
 [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=flat&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-%235FA04E?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-
+<br>
 
 Front-end: <br>
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://devdocs.io/html/)
@@ -41,18 +41,18 @@ Front-end: <br>
 [![Angular](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=DD0031)](https://v17.angular.io/docs)
 [![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=%2361DAFB)](https://legacy.reactjs.org/docs/getting-started.html)
 [![VueJs](https://img.shields.io/badge/VueJs-black?style=flat&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/guide/introduction.html)
-
+<br>
 
 Database: <br>
 [![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white)](https://www.w3schools.com/sql/)
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-%234169E1?style=flat&logo=postgresql&logoColor=white)](https://www.w3schools.com/postgresql/index.php)
 [![MicrosoftSQLServer](https://img.shields.io/badge/SQLServer-%23CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.w3schools.com/sql/)
 ![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=%2347A248)
-
+<br>
 
 Cloud: <br>
 [![GoogleDrive](https://img.shields.io/badge/Google_Drive-%234285F4?style=flat&logo=googledrive&logoColor=white)](https://www.google.com/intl/pt-br/drive/about.html)
-
+<br>
 
 Operacional Systems: <br>
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](https://manjaro.org/)
@@ -60,7 +60,7 @@ Operacional Systems: <br>
 [![PopOS](https://img.shields.io/badge/PopOS-48B9C7?style=flat&logo=popos&logoColor=white)](https://pop.system76.com/)
 [![Windows10](https://img.shields.io/badge/Windows_10-%230078D4?style=flat&logo=windowsxp&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10%20)
 [![Windows11](https://img.shields.io/badge/Windows_11-%230078D4?style=flat&logo=windows11&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows11)
-
+<br>
 
 Tools: <br>
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
@@ -69,7 +69,7 @@ Tools: <br>
 [![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=black)](https://www.postman.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/docs/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/)
-
+<br>
 
 IDEs: <br>
 [![DBeaver](https://img.shields.io/badge/Dbeaver-%236b3e2c?style=flat&logo=dbeaver)](https://dbeaver.com/)
