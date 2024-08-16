@@ -38,16 +38,18 @@ Front-end: <br>
 [![Blazor](https://img.shields.io/badge/-Blazor-black?style=flat&logo=blazor&logoColor=%23512BD4)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://devdocs.io/javascript/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/docs/)
-[![Angular](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=DD0031)](https://v17.angular.io/docs)
+
+<!-- [![Angular](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=DD0031)](https://v17.angular.io/docs)
 [![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=%2361DAFB)](https://legacy.reactjs.org/docs/getting-started.html)
-[![VueJs](https://img.shields.io/badge/VueJs-black?style=flat&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/guide/introduction.html)
+[![VueJs](https://img.shields.io/badge/VueJs-black?style=flat&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/guide/introduction.html) -->
 <br>
 
 Database: <br>
 [![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white)](https://www.w3schools.com/sql/)
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-%234169E1?style=flat&logo=postgresql&logoColor=white)](https://www.w3schools.com/postgresql/index.php)
 [![MicrosoftSQLServer](https://img.shields.io/badge/SQLServer-%23CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.w3schools.com/sql/)
-![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=%2347A248)
+
+<!-- ![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=%2347A248) -->
 <br>
 
 Cloud: <br>
@@ -55,7 +57,8 @@ Cloud: <br>
 <br>
 
 Operacional Systems: <br>
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](https://manjaro.org/)
+<!-- [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](https://manjaro.org/) -->
+
 [![Mint](https://img.shields.io/badge/Mint-87CF3E?logo=linuxmint&logoColor=white)](https://www.linuxmint.com/download.php)
 [![PopOS](https://img.shields.io/badge/PopOS-48B9C7?style=flat&logo=popos&logoColor=white)](https://pop.system76.com/)
 [![Windows10](https://img.shields.io/badge/Windows_10-%230078D4?style=flat&logo=windowsxp&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10%20)
@@ -68,7 +71,8 @@ Tools: <br>
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat&logo=npm&logoColor=white)](https://docs.npmjs.com/creating-a-new-npm-user-account)
 [![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=black)](https://www.postman.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/docs/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/)
+
+<!-- [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/) -->
 <br>
 
 IDEs: <br>
