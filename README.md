@@ -38,6 +38,7 @@ Front-end: <br>
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=%23CFA9D9)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://devdocs.io/javascript/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/docs/)
+[![JQuery](https://img.shields.io/badge/JQuery-white?style=flat&logo=jquery&logoColor=%230769AD)](https://api.jquery.com/)
 [![Blazor](https://img.shields.io/badge/-Blazor-black?style=flat&logo=blazor&logoColor=%23512BD4)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
 <!-- [![Angular](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=DD0031)](https://v17.angular.io/docs)
