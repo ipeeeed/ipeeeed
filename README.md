@@ -28,7 +28,8 @@ Back-end: <br>
 [![Swing](https://img.shields.io/badge/Java_Swing-%231B6AC6?style=flat&logo=smashingmagazine&logoColor=white)](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F/javax/swing/package-summary.html)
 [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=flat&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-%235FA04E?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-[![DotnetCore](https://img.shields.io/badge/C%23-%23512BD4?logo=dotnet&logoColor=%23512BD4&label=Dotnet%20Core&labelColor=black)](https://dotnet.microsoft.com/en-us/download)
+
+<!-- [![DotnetCore](https://img.shields.io/badge/C%23-%23512BD4?logo=dotnet&logoColor=%23512BD4&label=Dotnet%20Core&labelColor=black)](https://dotnet.microsoft.com/en-us/download) -->
 
 Front-end: <br>
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://devdocs.io/html/)
@@ -54,12 +55,12 @@ Cloud: <br>
 [![GoogleDrive](https://img.shields.io/badge/Google_Drive-%234285F4?style=flat&logo=googledrive&logoColor=white)](https://www.google.com/intl/pt-br/drive/about.html)
 
 Operacional Systems: <br>
-<!-- [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](https://manjaro.org/) -->
-
 [![Mint](https://img.shields.io/badge/Mint-87CF3E?logo=linuxmint&logoColor=white)](https://www.linuxmint.com/download.php)
 [![PopOS](https://img.shields.io/badge/PopOS-48B9C7?style=flat&logo=popos&logoColor=white)](https://pop.system76.com/)
 [![Windows10](https://img.shields.io/badge/Windows_10-%230078D4?style=flat&logo=windowsxp&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10%20)
 [![Windows11](https://img.shields.io/badge/Windows_11-%230078D4?style=flat&logo=windows11&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows11)
+
+<!-- [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](https://manjaro.org/) -->
 
 Tools: <br>
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
