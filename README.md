@@ -30,8 +30,6 @@ Back-end: <br>
 [![NodeJS](https://img.shields.io/badge/NodeJS-%235FA04E?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 [![DotnetCore](https://img.shields.io/badge/C%23-%23512BD4?logo=dotnet&logoColor=%23512BD4&label=Dotnet%20Core&labelColor=black)](https://dotnet.microsoft.com/en-us/download)
 
-<br>
-
 Front-end: <br>
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://devdocs.io/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://devdocs.io/css/)
@@ -44,7 +42,6 @@ Front-end: <br>
 <!-- [![Angular](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=DD0031)](https://v17.angular.io/docs)
 [![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=%2361DAFB)](https://legacy.reactjs.org/docs/getting-started.html)
 [![VueJs](https://img.shields.io/badge/VueJs-black?style=flat&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/guide/introduction.html) -->
-<br>
 
 Database: <br>
 [![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white)](https://www.w3schools.com/sql/)
@@ -52,11 +49,9 @@ Database: <br>
 [![MicrosoftSQLServer](https://img.shields.io/badge/SQLServer-%23CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.w3schools.com/sql/)
 
 <!-- ![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=%2347A248) -->
-<br>
 
 Cloud: <br>
 [![GoogleDrive](https://img.shields.io/badge/Google_Drive-%234285F4?style=flat&logo=googledrive&logoColor=white)](https://www.google.com/intl/pt-br/drive/about.html)
-<br>
 
 Operacional Systems: <br>
 <!-- [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](https://manjaro.org/) -->
@@ -65,7 +60,6 @@ Operacional Systems: <br>
 [![PopOS](https://img.shields.io/badge/PopOS-48B9C7?style=flat&logo=popos&logoColor=white)](https://pop.system76.com/)
 [![Windows10](https://img.shields.io/badge/Windows_10-%230078D4?style=flat&logo=windowsxp&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10%20)
 [![Windows11](https://img.shields.io/badge/Windows_11-%230078D4?style=flat&logo=windows11&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows11)
-<br>
 
 Tools: <br>
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
@@ -75,7 +69,6 @@ Tools: <br>
 [![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/docs/)
 
 <!-- [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/) -->
-<br>
 
 IDEs: <br>
 [![DBeaver](https://img.shields.io/badge/Dbeaver-%236b3e2c?style=flat&logo=dbeaver)](https://dbeaver.com/)
