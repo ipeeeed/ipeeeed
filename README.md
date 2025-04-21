@@ -2,18 +2,14 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&size=60&duration=3000&pause=1000&color=22AE43&background=6DA3FF00&center=true&vCenter=true&random=false&width=550&height=90&lines=Bem-vindo(a)+Visitante!;Meu+nome+%C3%A9+Pedro!;Desenvolvedor+Web!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&size=60&duration=3000&pause=1000&color=22AE43&background=6DA3FF00&center=true&vCenter=true&random=false&width=550&height=90&lines=Bem-vindo(a)+Visitante!;Meu+nome+%C3%A9+Pedro!;Desenvolvedor+Web!;Desenvolvedor+de+Jogos)](https://git.io/typing-svg)
 </div>
 
 ____
 
 ## Hello! 👋
 
-Meu nome é Pedro, tenho 26 anos, curso Ciências da Computação e sou Desenvolvedor Web com foco em Back-end.
-
-* Minha linguagem principal é Java, mas tenho conhecimentos em algumas outras linguagens de programação como NodeJS; bem como linguagens de marcação como HTML e Markdown; linguagem de estilo CSS; e linguagem de consulta SQL;
-* Meu foco principal está no Desenvolvimento Web com Rest API e Microserviços;
-* Meu hobby como programador é Desenvolvimento de Jogos.
+Meu nome é Pedro, tenho 26 anos, curso Ciências da Computação e sou Desenvolvedor Web e Desenvolvedor de Jogos.
 
 [![Linkedin:Pedro](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ipeeeed/)](https://www.linkedin.com/in/ipeeeed/)
 
