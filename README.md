@@ -34,11 +34,11 @@ Front-end: <br>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://devdocs.io/javascript/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/docs/)
 [![Blazor](https://img.shields.io/badge/-Blazor-black?style=flat&logo=blazor&logoColor=%23512BD4)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[![VueJs](https://img.shields.io/badge/VueJs-black?style=flat&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/guide/introduction.html)
 
 <!-- [![Angular](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=DD0031)](https://v17.angular.io/docs)
 [![JQuery](https://img.shields.io/badge/JQuery-white?style=flat&logo=jquery&logoColor=%230769AD)](https://api.jquery.com/)
-[![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=%2361DAFB)](https://legacy.reactjs.org/docs/getting-started.html)
-[![VueJs](https://img.shields.io/badge/VueJs-black?style=flat&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/guide/introduction.html) -->
+[![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=%2361DAFB)](https://legacy.reactjs.org/docs/getting-started.html) -->
 
 Database: <br>
 [![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white)](https://www.w3schools.com/sql/)
@@ -53,7 +53,7 @@ Cloud: <br>
 Operacional Systems: <br>
 [![Mint](https://img.shields.io/badge/Mint-87CF3E?logo=linuxmint&logoColor=white)](https://www.linuxmint.com/download.php)
 [![PopOS](https://img.shields.io/badge/PopOS-48B9C7?style=flat&logo=popos&logoColor=white)](https://pop.system76.com/)
-[![Windows11](https://img.shields.io/badge/Windows_10/11-%230078D4?style=flat&logo=windows11&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows11)
+[![Windows11](https://img.shields.io/badge/Windows-%230078D4?style=flat&logo=windows11&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows11)
 
 <!-- [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](https://manjaro.org/)
 [![Windows10](https://img.shields.io/badge/Windows_10-%230078D4?style=flat&logo=windowsxp&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10%20) -->
@@ -69,10 +69,10 @@ Tools: <br>
 
 IDEs: <br>
 [![DBeaver](https://img.shields.io/badge/Dbeaver-%236b3e2c?style=flat&logo=dbeaver)](https://dbeaver.com/)
-[![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
-[![Eclipse](https://img.shields.io/badge/-Eclipse-6232a8?style=flat&logo=eclipse&logoColor=white)](https://eclipseide.org/)
-[![VisualStudio](https://img.shields.io/badge/-Visual_Studio-black?style=flat&logo=visualstudio&logoColor=%235C2D91)](https://visualstudio.microsoft.com/pt-br/vs/community/)
 [![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode&logoColor=%23007ACC)](https://code.visualstudio.com/)
+<!-- [![VisualStudio](https://img.shields.io/badge/-Visual_Studio-black?style=flat&logo=visualstudio&logoColor=%235C2D91)](https://visualstudio.microsoft.com/pt-br/vs/community/)
+[![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
+[![Eclipse](https://img.shields.io/badge/-Eclipse-6232a8?style=flat&logo=eclipse&logoColor=white)](https://eclipseide.org/) -->
 
 Game Development: <br>
 [![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=%23FFFFFF)](https://unity.com/pt/)
