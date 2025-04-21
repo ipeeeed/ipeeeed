@@ -69,7 +69,7 @@ Tools: <br>
 
 IDEs: <br>
 [![DBeaver](https://img.shields.io/badge/Dbeaver-%236b3e2c?style=flat&logo=dbeaver)](https://dbeaver.com/)
-[![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode&logoColor=%23007ACC)](https://code.visualstudio.com/)
+[![VSCode](https://img.shields.io/badge/-VSCode-1572B6?style=flat&logo=visualstudiocode&logoColor=%23007ACC)](https://code.visualstudio.com/)
 <!-- [![VisualStudio](https://img.shields.io/badge/-Visual_Studio-black?style=flat&logo=visualstudio&logoColor=%235C2D91)](https://visualstudio.microsoft.com/pt-br/vs/community/)
 [![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
 [![Eclipse](https://img.shields.io/badge/-Eclipse-6232a8?style=flat&logo=eclipse&logoColor=white)](https://eclipseide.org/) -->
