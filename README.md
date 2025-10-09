@@ -47,8 +47,8 @@ Database: <br>
 
 <!-- ![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=%2347A248) -->
 
-Cloud: <br>
-[![GoogleDrive](https://img.shields.io/badge/Google_Drive-%234285F4?style=flat&logo=googledrive&logoColor=white)](https://www.google.com/intl/pt-br/drive/about.html)
+<!-- Cloud: <br>
+[![GoogleDrive](https://img.shields.io/badge/Google_Drive-%234285F4?style=flat&logo=googledrive&logoColor=white)](https://www.google.com/intl/pt-br/drive/about.html) -->
 
 Operacional Systems: <br>
 [![Mint](https://img.shields.io/badge/Mint-87CF3E?logo=linuxmint&logoColor=white)](https://www.linuxmint.com/download.php)
@@ -78,6 +78,6 @@ Game Development: <br>
 [![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=%23FFFFFF)](https://unity.com/pt/)
 [![Blender](https://img.shields.io/badge/Blender-gray?style=flat&logo=blender&logoColor=%23E87D0D)](https://www.blender.org/)
 [![Aseprite](https://img.shields.io/badge/Aseprite-white?style=flat&logo=aseprite&logoColor=%237D929E)](https://www.aseprite.org/)
-[![Krita](https://img.shields.io/badge/Krita-%233BABFF?style=flat&logo=krita&logoColor=%23DD59A3)](https://krita.org/en/)
+<!-- [![Krita](https://img.shields.io/badge/Krita-%233BABFF?style=flat&logo=krita&logoColor=%23DD59A3)](https://krita.org/en/) -->
 
 </div>
